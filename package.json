@@ -9,7 +9,8 @@
   "dependencies": {
     "@hono/vite-ssg": "^0.1.0",
     "hono": "^4.2.3",
-    "honox": "^0.1.14"
+    "honox": "^0.1.14",
+    "wrangler": "^3.53.1"
   },
   "devDependencies": {
     "@hono/vite-dev-server": "^0.11.0",
